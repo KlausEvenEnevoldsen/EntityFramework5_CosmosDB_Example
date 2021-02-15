@@ -1,0 +1,9 @@
+C:\Users\klaus\source\repos\EntityFramework5_CosmosDB_Example\src\DomainModel\obj\Debug\netstandard2.1\DomainModel.csprojAssemblyReference.cache
+C:\Users\klaus\source\repos\EntityFramework5_CosmosDB_Example\src\DomainModel\obj\Debug\netstandard2.1\DomainModel.AssemblyInfoInputs.cache
+C:\Users\klaus\source\repos\EntityFramework5_CosmosDB_Example\src\DomainModel\obj\Debug\netstandard2.1\DomainModel.AssemblyInfo.cs
+C:\Users\klaus\source\repos\EntityFramework5_CosmosDB_Example\src\DomainModel\obj\Debug\netstandard2.1\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\klaus\source\repos\EntityFramework5_CosmosDB_Example\src\DomainModel\bin\Debug\netstandard2.1\DomainModel.deps.json
+C:\Users\klaus\source\repos\EntityFramework5_CosmosDB_Example\src\DomainModel\bin\Debug\netstandard2.1\DomainModel.dll
+C:\Users\klaus\source\repos\EntityFramework5_CosmosDB_Example\src\DomainModel\bin\Debug\netstandard2.1\DomainModel.pdb
+C:\Users\klaus\source\repos\EntityFramework5_CosmosDB_Example\src\DomainModel\obj\Debug\netstandard2.1\DomainModel.dll
+C:\Users\klaus\source\repos\EntityFramework5_CosmosDB_Example\src\DomainModel\obj\Debug\netstandard2.1\DomainModel.pdb
